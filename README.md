@@ -6,6 +6,17 @@ Back-end for Driven.t, an event management solution.
 
 Driven.t is a web browser application with which you can manage every single aspect of your event.
 
+## Tecnologias
+<p>
+<img src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white"  alt="JavaScript" width="100" height="30">
+<img src="https://img.shields.io/badge/-Node-339933?logo=nodedotjs&logoColor=white" width="80" height="30">
+<img src="https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=white" width="100" height="30">
+<img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white" width="100" height="30">
+<img src="https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white" width="80" height="30">
+
+</p>
+
+
 ## How to run for development
 
 1. Clone this repository
